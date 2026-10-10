@@ -1,2 +1,2 @@
-# train_ticket_bookig
+# train_ticket_booking
 train ticket booking app 
